@@ -1,5 +1,6 @@
 # ExDataPlottingFinal
 Final Assignment for Exploratory Data Analysis Coursera Course
+
 This Repo pulls data from https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip
 The zip file contains two files:
 
